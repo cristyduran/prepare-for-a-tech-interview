@@ -1,0 +1,52 @@
+/*
+    Student Name: Cristina Duran
+	File Name: apply11.css
+	Current Date: December 14,
+*/
+
+/* CSS reset */
+body, header, main, footer, h1, h2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Style rules for body and page container */
+body {
+	background-color: #d9e6f2;
+}
+
+#container {
+	width: 80%;
+	margin: 0 auto;
+    box-shadow: .5em .5em .5em #404040;
+}
+
+/* Style rules for header area */
+header h1 {
+	font-family: Verdana, Arial, sans-serif;
+	background-color: #BCA3FA;
+	color: #fff;
+	padding: 1em;
+    text-align: center;
+}
+
+/* Style rules for main content  */
+main {
+	padding: 1em;
+	background-color: #fff;
+}
+
+main p, li {
+    font: 1.15em Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 2%;
+}
+
+/* Style rule for the footer element */
+footer {
+	font-size: 1.5em;
+	text-align: center;
+    padding: 2%;
+    background-color: #E9ACF5;
+}
