@@ -1,5 +1,5 @@
 # prepare-for-a-tech-interview
 
-##Skills
-*HTML
-*CSS
+## Skills
+* HTML
+* CSS
